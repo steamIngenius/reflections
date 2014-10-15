@@ -13,3 +13,7 @@ You can make sure that only the files you intend to be changed are part of the s
 --- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When you want to try something without fear of damaging your working codebase.
+
+--- How do the diagrams help you visualize the branch structure?
+
+By showing the difference between branches and commits. Before this I never knew that you could commit changes that would effectively be lost since they didn't have a branch name to track them.
