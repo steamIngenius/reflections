@@ -1,0 +1,3 @@
+--- What happens when you initialize a repository? Why do you need to do it?
+
+Git creates necessary structure for tracking changes to a project. It's the first step in getting things ready before adding files to track and committing changes.
