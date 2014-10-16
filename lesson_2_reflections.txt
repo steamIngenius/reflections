@@ -21,3 +21,7 @@ By showing the difference between branches and commits. Before this I never knew
 --- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result depends on the strategy used to merge, but so far we have see the merge include common elements between the two branches plus anything added minus anything one of the branches removed. It's hella confusing and pretty amazing really.
+
+-- What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git will look at everything and specifically direct your attention to the parts of the merge that need it. Everything else is taken care of automatically.
