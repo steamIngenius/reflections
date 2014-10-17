@@ -9,3 +9,7 @@ There could be local changes that would be overwritten if git decided to pull a 
 --- Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Branches are for tracking different versions of a code base with a name. Clones are like copies of a repository. And forks are like clones but specific to GitHub.
+
+--- What is the benefit of having a copy of the last known state of the remote stored locally?
+
+To track changes in the remote against your local repo while offline.
