@@ -13,3 +13,7 @@ Branches are for tracking different versions of a code base with a name. Clones 
 --- What is the benefit of having a copy of the last known state of the remote stored locally?
 
 To track changes in the remote against your local repo while offline.
+
+--- How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It seems like the whole business would be harder because if their were multiple 'repositories' flying around with changes they would all have to be merged manually. This would make it incredibly difficult for multiple people to work on a project or even one person from multiple locations. I can't think of anything better in this scenario.
