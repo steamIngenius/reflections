@@ -16,4 +16,8 @@ To track changes in the remote against your local repo while offline.
 
 --- How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-It seems like the whole business would be harder because if their were multiple 'repositories' flying around with changes they would all have to be merged manually. This would make it incredibly difficult for multiple people to work on a project or even one person from multiple locations. I can't think of anything better in this scenario.
+It seems like the whole business would be harder because if there were multiple 'repositories' flying around with changes they would all have to be merged manually. This would make it incredibly difficult for multiple people to work on a project or even one person from multiple locations. I can't think of anything better in this scenario.
+
+--- When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When experimenting with a new feature or trying some new code. A seperate branch is beneficial because you can easily roll back or throw away changes that you don't like. Working in the master branch is easier because merging changes is less complicated.
